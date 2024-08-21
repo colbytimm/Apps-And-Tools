@@ -1,6 +1,6 @@
 # 🍏 macOS Apps
 
-These are a collection of my favourite apps that I use on my macOS machine.
+These are a collection of my favourite apps that I use on my macOS machines.
 
 | Tool | Link | Description
 |------|------|-------------
@@ -17,3 +17,4 @@ These are a collection of my favourite apps that I use on my macOS machine.
 | Elgato Stream Deck | https://www.elgato.com/ca/en/s/downloads/ | Love my Stream Deck and this software supports running and customizing it.
 | ChatGPT | https://openai.com/chatgpt/mac/ | App version of ChatGPT built by OpenAI.
 | AeroSpace | https://github.com/nikitabobko/AeroSpace/ | Windows management for macOS that is similar to i3 on Linux. Still new to using this but will eventually add my config to this repo.
+| Sublime | https://www.sublimetext.com/ | Text editor of choice.
